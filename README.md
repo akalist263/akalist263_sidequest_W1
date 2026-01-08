@@ -6,22 +6,15 @@ Give your project a short, clear title (e.g., "Side Quest Week 1: Interactive Sh
 
 ---
 
-## Allison Kalist / akalist / 21070062
+## Group Members
 
-List the full name, WatID, and student number for each group member.
-If the project is individual, include only your own information.
+Allison Kalist / akalist / 21070062
 
 ---
 
 ## Description
 
-Briefly describe what your project does.  
-Explain what the user will see, how they can interact, and what inspired the design.
-
-Example:
-
-> This project lets users switch between shapes using keyboard inputs.  
-> It explores how visual feedback can communicate accessibility states.
+This project is a test to set up and understand GitHub.
 
 ---
 
